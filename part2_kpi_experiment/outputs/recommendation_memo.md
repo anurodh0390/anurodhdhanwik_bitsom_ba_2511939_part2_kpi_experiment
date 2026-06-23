@@ -19,7 +19,7 @@ The structural outcomes across our KPI tree layers demonstrate clear behavioral 
 
 ## 3. Hypothesis Testing Summary
 - *Null Hypothesis ($H_0$):* Rejected ($P_{\text{Treatment}} \neq P_{\text{Control}}$)
-- *Statistical Evidence:* Two-Proportion Z-Test yielded a computed *Z-Statistic of 3.2519* and a *P-Value of 0.0009*.
+- *Statistical Evidence:* Two-Proportion Z-Test yielded a computed *Z-Statistic of 3.3165* and a *P-Value of 0.0009*.
 - *Conclusion:* The positive shift in the conversion rate is mathematically significant and cleared our pre-set alpha threshold ($\alpha = 0.05$). The conversion lift is a direct result of the new onboarding experience.
 
 ## 4. Operational Guardrail Assessment & Risks
